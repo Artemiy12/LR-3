@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test for LR3", "Test for LR3\Test for LR3.csproj", "{1CD6C2E8-54F5-488F-A587-26D6C4942737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CD6C2E8-54F5-488F-A587-26D6C4942737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD6C2E8-54F5-488F-A587-26D6C4942737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD6C2E8-54F5-488F-A587-26D6C4942737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD6C2E8-54F5-488F-A587-26D6C4942737}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F876E4D-C65A-4077-8BC2-46425405504D}
+	EndGlobalSection
+EndGlobal
